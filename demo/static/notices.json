@@ -1,0 +1,121 @@
+{
+    "notices": [
+        {
+            "id": "421298096782274560",
+            "buyerName": "四川仪表工业学校",
+            "issueTime": 1571040008000,
+            "districtName": "市级",
+            "flagName": "重庆市",
+            "title": "四川仪表工业学校学生宿舍3号楼改造结果公告",
+            "projectDirectoryName": "工程类",
+            "projectBudget": 294000,
+            "projectPurchaseWay": "询价采购",
+            "bidBeginTime": 1571840008000,
+            "packageNum": 1,
+            "hits": 9
+        },
+        {
+    
+            "id": "421285168997953536",
+            "buyerName": "重庆警察学院",
+            "issueTime": 1571040008000,
+            "districtName": "渝中区",
+            "flagName": "主城九区",
+            "title": "警院战术系购教学训练器材（16A5988）采购公告",
+            "projectDirectoryName": "教学训练器材",
+            "projectBudget": 140000,
+            "projectPurchaseWay": "公开招标",
+            "bidBeginTime": 1571840008000,
+            "packageNum": 2,
+            "hits": 6
+        },
+        {
+        
+            "id": "421281787524771840",
+            "buyerName": "重庆警察学院",
+            "issueTime": 1571040008000,
+            "districtName": "巴南区",
+            "flagName": "主城九区",
+            "title": "重庆警察学院网络巡检和网络优化服务（16C3398）采购公告",
+            "projectDirectoryName": "其他运行维护服务",
+            "projectBudget": 59000,
+            "projectPurchaseWay": "电子询价",
+            "bidBeginTime": 1573040008000,
+            "packageNum": 2,
+            "hits": 11
+        },
+        {
+            "id": "421278781681135616",
+            "buyerName": "四川外国语大学",
+            "issueTime": 1571030008000,
+            "districtName": "市级",
+            "flagName": "重庆市",
+            "title": "四川外国语大学商务英语学院综合实训系统采购公告",
+            "projectDirectoryName": "货物类",
+            "projectBudget": 148000,
+            "projectPurchaseWay": "竞争性磋商",
+            "bidBeginTime": 1573040008000,
+            "packageNum": 3,
+            "hits": 100
+        },
+        {
+            "id": "421298096782274561",
+            "buyerName": "重庆交通大学",
+            "issueTime": 1571030008000,
+            "districtName": "市级",
+            "flagName": "重庆市",
+            "title": "重庆交通大学学生宿舍4号楼改造结果公告",
+            "projectDirectoryName": "工程类",
+            "projectBudget": 204000,
+            "projectPurchaseWay": "询价采购",
+            "bidBeginTime": 1573040008000,
+            "packageNum": 1,
+            "hits": 9
+        },
+        {
+    
+            "id": "421285168997953537",
+            "buyerName": "重庆大学",
+            "issueTime": 1571030008000,
+            "districtName": "九龙坡区",
+            "flagName": "主城九区",
+            "title": "数理学院数学系购教学训练器材（16A5988）采购公告",
+            "projectDirectoryName": "教学训练器材",
+            "projectBudget": 500000,
+            "projectPurchaseWay": "公开招标",
+            "bidBeginTime": 1573040008000,
+            "packageNum": 2,
+            "hits": 6
+        },
+        {
+        
+            "id": "421281787524771841",
+            "buyerName": "巴南区李家沱派出所",
+            "issueTime": 1570940008000,
+            "districtName": "巴南区",
+            "flagName": "主城九区",
+            "title": "巴南区李家沱派出所网络巡检和网络优化服务（16C3398）采购公告",
+            "projectDirectoryName": "其他运行维护服务",
+            "projectBudget": 10000,
+            "projectPurchaseWay": "单一来源",
+            "bidBeginTime": 1576040008000,
+            "packageNum": 2,
+            "hits": 11
+        },
+        {
+            "id": "421278781681135617",
+            "buyerName": "西南师范大学",
+            "issueTime": 1570940008000,
+            "districtName": "市级",
+            "flagName": "重庆市",
+            "title": "西南师范大学商务英语学院综合实训系统采购公告",
+            "projectDirectoryName": "货物类",
+            "projectBudget": 98600,
+            "projectPurchaseWay": "竞争性谈判",
+            "bidBeginTime": 1576040008000,
+            "packageNum": 3,
+            "hits": 100
+        }
+    ],
+    "total": 399
+}
